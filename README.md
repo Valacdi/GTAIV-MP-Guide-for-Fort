@@ -24,8 +24,8 @@ Now you need to move your "TLAD" and "TBoGT" folders from the "GTAIV" directory 
 ![image](https://user-images.githubusercontent.com/69086253/179053705-c6ecd965-950c-4ecd-a79e-783309185b10.png)<br>
 Go to any DLC folder and make a new folder inside of them called "content", move every DLC file to the "content" folder, do the same for BOTH.
 End result:<br>
-![image](https://user-images.githubusercontent.com/69086253/179054201-9cab65ad-f103-4132-87bb-a49b2dee8c3a.png)
-![image](https://user-images.githubusercontent.com/69086253/179054241-c4d31d12-3060-46dc-8913-5bfb836bc76d.png)<br>
+![image](https://user-images.githubusercontent.com/69086253/179094156-82b6e173-ada8-450f-9224-408f02884c4a.png)
+![image](https://user-images.githubusercontent.com/69086253/179094251-965c2e6d-9334-4be8-b8e4-a01a0630d3cd.png)<br>
 
 You are set for downgrading.
 
