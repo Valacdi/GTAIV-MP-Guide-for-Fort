@@ -4,6 +4,11 @@
 might post a MEGA link later to the entire game to skip all of this shit<br>
 if you hate reading, there is a video guide: https://www.youtube.com/watch?v=4AyFKKu1L_Y
 
+<h2>ATTENTION</h2>
+There is a program made specifically for GTA IV downgrading, I recommend using it instead of reading my step 1 and 2, after you are done using the program, go to my step 3.
+Download: https://gtaforums.com/topic/976691-gta-iv-downgrader/<br><br>
+Disclaimer: I use 1.0.8.0, but I think 1.0.7.0 is compatible with version 8 in MP.
+
 <h1>THINGS TO DO BEFORE CONTINUING</h1>
 
 **Launch the game atleast ONCE before proceeding!**
