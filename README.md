@@ -43,7 +43,7 @@ Copy everything from the "8" folder (or "7", depends on you) and paste the files
 <br>Your installation might fail, if that happens download the required GFWL files from this MEGA link: https://mega.nz/file/fcxUWCoD#NhrpBveqbhmxAxFd009dUk2G8S90w8FqShXv56CY2Bo<br>
 put the downloaded GFWL files to "Windows/SysWOW64".<br><br>
 Do not forget to install MS Visual 2005 Runtime Libraries, the installation .exe is located in the "files_for_bat" folder.
-![image](https://user-images.githubusercontent.com/69086253/179062921-84edd760-3b83-460f-9c2d-c8b3cf624ed7.png)
+![image](https://user-images.githubusercontent.com/69086253/179064426-be0807cc-1881-4cbf-95f5-a271819061d6.png)
 
 <h1>STEP 3. Games for Windows Live (fuck this shit)</h1>
 
