@@ -60,5 +60,5 @@ If you see your GFWL profile after all of this, you are set and can play multipl
 
 <h1>SOME THINGS YOU COULD DO TO IMPROVE THE GAME</h1>
 If I recall correctly R* has cut some songs from the radio stations, to get the old songs back you can download them from here: https://gtaforums.com/topic/936600-iii-iv-various-gta-downgraders/<br>
-GTA IV has no Anti-Aliasing, if you would like to have some sort of AA, you can inject SMAA, download link: https://gtaforums.com/topic/508407-inject-smaa-antialiasing/<br>
+GTA IV has no Anti-Aliasing, if you would like to have some sort of AA, you can inject SMAA, download link: https://mega.nz/file/VQFVkSCS#wjQz2mpkXUNEbkqohR7NcmnLYIJtkdf3znJiLj0N9Gc<br>
 GTA IV has no Anti-Cheat, so you can cheat and no one would give a shit. Download Zolika's trainer as it can be useful for some fun multiplayer sessions: https://gtaforums.com/topic/896795-1000-1080-zolika1351s-trainermod-menu-rewritten/
