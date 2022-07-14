@@ -1,7 +1,7 @@
 # GTAIV-MP-Guide-for-Fort
 
 **HELLO, DEAR FORTIANS)))) welcome**<br>
-might post a MEGA link later to the entire game to skip all of this shit
+might post a MEGA link later to the entire game to skip all of this shit<br>
 if you hate reading, there is a video guide: https://www.youtube.com/watch?v=4AyFKKu1L_Y
 
 <h1>THINGS TO DO BEFORE CONTINUING</h1>
