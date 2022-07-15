@@ -1,13 +1,8 @@
 # GTAIV-MP-Guide-for-Fort
 
 **HELLO, DEAR FORTIANS)))) welcome**<br>
-might post a MEGA link later to the entire game to skip all of this shit<br>
+link to the entire game, you can skip to step 3 with this, and make sure you have installed GFWL and MS Visual 2005 Runtime Libraries: https://1drv.ms/u/s!Aj96t86AgLiRgfFrhTbtUl_Sfg90uA?e=xe28A1<br>
 if you hate reading, there is a video guide: https://www.youtube.com/watch?v=4AyFKKu1L_Y
-
-<h2>ATTENTION</h2>
-There is a program made specifically for GTA IV downgrading, I recommend using it instead of reading my step 1 and 2, after you are done using the program, go to my step 3.
-Download: https://gtaforums.com/topic/976691-gta-iv-downgrader/<br><br>
-Disclaimer: I use 1.0.8.0, but I think 1.0.7.0 is compatible with version 8 in MP.
 
 <h1>THINGS TO DO BEFORE CONTINUING</h1>
 
