@@ -1,7 +1,7 @@
 # GTAIV-MP-Guide-for-Fort
 
 **HELLO, DEAR FORTIANS)))) welcome**<br>
-link to the entire game, you can skip to step 3 with this, and make sure you have installed GFWL and MS Visual 2005 Runtime Libraries: https://1drv.ms/u/s!Aj96t86AgLiRgfFrhTbtUl_Sfg90uA?e=xe28A1<br>
+link to the entire game, you can skip to step 3 with this, and make sure you have installed GFWL and MS Visual 2005 Runtime Libraries: https://1drv.ms/u/s!Aj96t86AgLiRgfFrhTbtUl_Sfg90uA?e=xe28A1 (included with patches, zolika trainer and old radio)<br>
 if you hate reading, there is a video guide: https://www.youtube.com/watch?v=4AyFKKu1L_Y
 
 <h1>THINGS TO DO BEFORE CONTINUING</h1>
